@@ -1,14 +1,21 @@
 # Time-Management-System
 Track Employee's Login and Logout Time/Date
 
-# Home Page
+## Home Page
 ![](Pictures/Homepage.png)
 
-# SignIn
+## SignIn
 ![](Pictures/SignIn.jpg)
 
-# SignUp
+## SignUp
 ![](Pictures/SignUp.jpg)
 
-# Dash Board
+## Dash Board
 ![](Pictures/Dashboard.jpg)
+
+## Database
+Stores
+- Employee ID
+- Username
+- Password
+![](Pictures/Database.png)
