@@ -19,7 +19,7 @@
     <li><a href="#" class="option" id="signup">Signup</a></li>
     </div>
 
-    <center class="company">ABC Company</center>
+    <center class="company">Time Management System</center>
 
     
     <div class="container">
